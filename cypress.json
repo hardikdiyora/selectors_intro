@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://www.saucedemo.com",
+    "videoUploadOnPasses": false,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "chromeWebSecurity": false
+}
